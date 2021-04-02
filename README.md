@@ -1,6 +1,12 @@
-# Happy-gitting-
+# Happy-gitting
+
+Time to git funky
 
 Just try out the git thing and enjoy gitting!
+
+I added this image:
+
+![Barry B Benson]
 
 Here is a cute dolphin:
 
